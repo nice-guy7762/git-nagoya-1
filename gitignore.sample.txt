@@ -3,6 +3,7 @@
 # ぎっといぐのあー
 # いぐのあー
 # のあー
+# ギットイグノア２回め変更
 
 # ignore system files
 .DS_Store
