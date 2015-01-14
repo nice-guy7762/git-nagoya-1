@@ -4,6 +4,7 @@
   Developer: hissy @HissyNC
   Design: onside @nipper_onside
   Git:nice-guy & kamekon and Superman & SuperSuperMan
+  Git:BayMax
 /* SITE */
   Standards: HTML5, CSS3
   Components: jQuery, Orbit, Reveal
